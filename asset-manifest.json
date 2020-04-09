@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vadim-buryakovsky/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vadim-buryakovsky/static/js/main.9bf32def.chunk.js",
+    "main.js.map": "/vadim-buryakovsky/static/js/main.9bf32def.chunk.js.map",
+    "runtime-main.js": "/vadim-buryakovsky/static/js/runtime-main.e68391b3.js",
+    "runtime-main.js.map": "/vadim-buryakovsky/static/js/runtime-main.e68391b3.js.map",
+    "static/js/2.cb67bedb.chunk.js": "/vadim-buryakovsky/static/js/2.cb67bedb.chunk.js",
+    "static/js/2.cb67bedb.chunk.js.map": "/vadim-buryakovsky/static/js/2.cb67bedb.chunk.js.map",
+    "index.html": "/vadim-buryakovsky/index.html",
+    "precache-manifest.d9c9e5829b979ed253c78b96495abf48.js": "/vadim-buryakovsky/precache-manifest.d9c9e5829b979ed253c78b96495abf48.js",
+    "service-worker.js": "/vadim-buryakovsky/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/vadim-buryakovsky/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cb67bedb.chunk.js.LICENSE.txt": "/vadim-buryakovsky/static/js/2.cb67bedb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vadim-buryakovsky/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e68391b3.js",
+    "static/js/2.cb67bedb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9bf32def.chunk.js"
+  ]
+}
