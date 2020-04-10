@@ -10,10 +10,9 @@ import Four04 from "./components/Four04";
 
 function App() {
   return (
-    <div className="App">
-      <Header></Header>
-      <h1>Hello From App.js</h1>
+    <div class="container bg3 fill">
       <Router>
+        <Header></Header>
         <Switch>
           <Route exact path="/" component={About}></Route>
           <Route exact path="/about" component={About}></Route>

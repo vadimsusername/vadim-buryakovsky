@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.bg1 {
+  background-color: #434e52;
+
+}
+.bg2{
+  background-color: #ecce6d;
+}
+.bg3 {
+  background-color: #5b8c85;
+}
+.bgw {
+  background-color: white;
+}
+
+
+.fill {
+  height:100vh;
+}
+.br {
+  border-right: 1px solid #000
+}
+
+.image-overlay {
+  top: auto;
+  background-color: #b0a160;
+  bottom: 10px;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 768px){
+  #about-image {
+      width: 80%; 
+      margin-left: 10%;
+      margin-right: 10%;
+      
+    
+  }
+}
