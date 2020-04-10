@@ -1,7 +1,8 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
 import "./style.css";
-import myFace from "./Vadim.jpg"
+import myFace from "./Vadim.jpg";
+import resume from "./MyResume.pdf";
 function About() {
 
     return (
@@ -12,7 +13,7 @@ function About() {
                     <div className="card-body ">
                        <h3 className="card-title">About Me</h3>
                       <nav className="nav  w-100 h-100 justify-content-center">
-                        <a className="nav-link align-self-center br" href="MyResume.pdf" target="_blank" >Resume</a>
+                        <a className="nav-link align-self-center br" href={resume} target="_blank" >Resume</a>
                         <a rel="noopener noreferrer" className="nav-link align-self-center br" href="https://github.com/vadimsusername" target="_blank">My Github</a>
                         <a rel="noopener noreferrer" className="nav-link align-self-center" href="https://www.linkedin.com/in/vadim-buryakovsky-176729101/" target="_blank">My Linkedin</a>
                       </nav>
