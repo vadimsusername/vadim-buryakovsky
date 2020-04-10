@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/vadim-buryakovsky/static/css/main.5f361e03.chunk.css",
-    "main.js": "/vadim-buryakovsky/static/js/main.9bf32def.chunk.js",
-    "main.js.map": "/vadim-buryakovsky/static/js/main.9bf32def.chunk.js.map",
+    "main.css": "/vadim-buryakovsky/static/css/main.2ef1b09c.chunk.css",
+    "main.js": "/vadim-buryakovsky/static/js/main.4900021a.chunk.js",
+    "main.js.map": "/vadim-buryakovsky/static/js/main.4900021a.chunk.js.map",
     "runtime-main.js": "/vadim-buryakovsky/static/js/runtime-main.e68391b3.js",
     "runtime-main.js.map": "/vadim-buryakovsky/static/js/runtime-main.e68391b3.js.map",
-    "static/js/2.cb67bedb.chunk.js": "/vadim-buryakovsky/static/js/2.cb67bedb.chunk.js",
-    "static/js/2.cb67bedb.chunk.js.map": "/vadim-buryakovsky/static/js/2.cb67bedb.chunk.js.map",
+    "static/js/2.17b0f78e.chunk.js": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js",
+    "static/js/2.17b0f78e.chunk.js.map": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js.map",
     "index.html": "/vadim-buryakovsky/index.html",
-    "precache-manifest.d9c9e5829b979ed253c78b96495abf48.js": "/vadim-buryakovsky/precache-manifest.d9c9e5829b979ed253c78b96495abf48.js",
+    "precache-manifest.e858c388cc56bc7f5cde3ae9849cfca9.js": "/vadim-buryakovsky/precache-manifest.e858c388cc56bc7f5cde3ae9849cfca9.js",
     "service-worker.js": "/vadim-buryakovsky/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/vadim-buryakovsky/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cb67bedb.chunk.js.LICENSE.txt": "/vadim-buryakovsky/static/js/2.cb67bedb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/vadim-buryakovsky/static/media/logo.5d5d9eef.svg"
+    "static/css/main.2ef1b09c.chunk.css.map": "/vadim-buryakovsky/static/css/main.2ef1b09c.chunk.css.map",
+    "static/js/2.17b0f78e.chunk.js.LICENSE.txt": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js.LICENSE.txt",
+    "static/media/MyResume.pdf": "/vadim-buryakovsky/static/media/MyResume.27fa656d.pdf",
+    "static/media/Vadim.jpg": "/vadim-buryakovsky/static/media/Vadim.6ac7860e.jpg",
+    "static/media/covid19_screenshot2.jpg": "/vadim-buryakovsky/static/media/covid19_screenshot2.c52c3763.jpg",
+    "static/media/dayplanner.jpg": "/vadim-buryakovsky/static/media/dayplanner.510f8449.jpg",
+    "static/media/logo.svg": "/vadim-buryakovsky/static/media/logo.5d5d9eef.svg",
+    "static/media/sharkFin2.jpg": "/vadim-buryakovsky/static/media/sharkFin2.51b92555.jpg",
+    "static/media/weather2.jpg": "/vadim-buryakovsky/static/media/weather2.cb6390bf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e68391b3.js",
-    "static/js/2.cb67bedb.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9bf32def.chunk.js"
+    "static/js/2.17b0f78e.chunk.js",
+    "static/css/main.2ef1b09c.chunk.css",
+    "static/js/main.4900021a.chunk.js"
   ]
 }
