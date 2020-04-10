@@ -10,7 +10,7 @@ import Four04 from "./components/Four04";
 
 function App() {
   return (
-    <div class="container bg3 fill">
+    <div className="container bg3 fill">
       <Router>
         <Header></Header>
         <Switch>

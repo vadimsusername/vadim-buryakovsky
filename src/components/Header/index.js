@@ -24,7 +24,7 @@ function Header() {
                     <Link to="/portfolio" className="nav-link align-self-center br"/* className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"} */>
                         Portfolio
                     </Link>
-                    <Link to="/contact" class="nav-link align-self-center"/* className={location.pathname === "/contact" ? "nav-link active" : "nav-link"} */>
+                    <Link to="/contact" className="nav-link align-self-center"/* className={location.pathname === "/contact" ? "nav-link active" : "nav-link"} */>
                         Contact
                     </Link>
                     {/* <a class="nav-link align-self-center br" href="#">About</a>
