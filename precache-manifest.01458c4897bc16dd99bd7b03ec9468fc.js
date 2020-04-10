@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "937e34e6264fb138d47114c72a473b03",
+    "revision": "e67dbf5ee2507270ff34241252078ef0",
     "url": "/vadim-buryakovsky/index.html"
   },
   {
-    "revision": "cd5ed7470c3f51ee8aa0",
+    "revision": "687b68bdee079c476e52",
     "url": "/vadim-buryakovsky/static/css/main.2ef1b09c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd5ed7470c3f51ee8aa0",
-    "url": "/vadim-buryakovsky/static/js/main.4900021a.chunk.js"
+    "revision": "687b68bdee079c476e52",
+    "url": "/vadim-buryakovsky/static/js/main.995104ee.chunk.js"
   },
   {
     "revision": "3a73c7a6e6655ac26cbf",

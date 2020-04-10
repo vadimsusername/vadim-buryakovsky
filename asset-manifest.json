@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vadim-buryakovsky/static/css/main.2ef1b09c.chunk.css",
-    "main.js": "/vadim-buryakovsky/static/js/main.4900021a.chunk.js",
-    "main.js.map": "/vadim-buryakovsky/static/js/main.4900021a.chunk.js.map",
+    "main.js": "/vadim-buryakovsky/static/js/main.995104ee.chunk.js",
+    "main.js.map": "/vadim-buryakovsky/static/js/main.995104ee.chunk.js.map",
     "runtime-main.js": "/vadim-buryakovsky/static/js/runtime-main.e68391b3.js",
     "runtime-main.js.map": "/vadim-buryakovsky/static/js/runtime-main.e68391b3.js.map",
     "static/js/2.17b0f78e.chunk.js": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js",
     "static/js/2.17b0f78e.chunk.js.map": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js.map",
     "index.html": "/vadim-buryakovsky/index.html",
-    "precache-manifest.e858c388cc56bc7f5cde3ae9849cfca9.js": "/vadim-buryakovsky/precache-manifest.e858c388cc56bc7f5cde3ae9849cfca9.js",
+    "precache-manifest.01458c4897bc16dd99bd7b03ec9468fc.js": "/vadim-buryakovsky/precache-manifest.01458c4897bc16dd99bd7b03ec9468fc.js",
     "service-worker.js": "/vadim-buryakovsky/service-worker.js",
     "static/css/main.2ef1b09c.chunk.css.map": "/vadim-buryakovsky/static/css/main.2ef1b09c.chunk.css.map",
     "static/js/2.17b0f78e.chunk.js.LICENSE.txt": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.e68391b3.js",
     "static/js/2.17b0f78e.chunk.js",
     "static/css/main.2ef1b09c.chunk.css",
-    "static/js/main.4900021a.chunk.js"
+    "static/js/main.995104ee.chunk.js"
   ]
 }
