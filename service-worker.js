@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vadim-buryakovsky/precache-manifest.287cff8d0ee9e8a27992bafb01e63080.js"
+  "/vadim-buryakovsky/precache-manifest.d500715c133d3fe5be926ac55f4c350b.js"
 );
 
 self.addEventListener('message', (event) => {

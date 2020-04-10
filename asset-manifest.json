@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vadim-buryakovsky/static/css/main.2ef1b09c.chunk.css",
-    "main.js": "/vadim-buryakovsky/static/js/main.b90dc39b.chunk.js",
-    "main.js.map": "/vadim-buryakovsky/static/js/main.b90dc39b.chunk.js.map",
+    "main.css": "/vadim-buryakovsky/static/css/main.85c9ab26.chunk.css",
+    "main.js": "/vadim-buryakovsky/static/js/main.000015ce.chunk.js",
+    "main.js.map": "/vadim-buryakovsky/static/js/main.000015ce.chunk.js.map",
     "runtime-main.js": "/vadim-buryakovsky/static/js/runtime-main.e68391b3.js",
     "runtime-main.js.map": "/vadim-buryakovsky/static/js/runtime-main.e68391b3.js.map",
     "static/js/2.17b0f78e.chunk.js": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js",
     "static/js/2.17b0f78e.chunk.js.map": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js.map",
     "index.html": "/vadim-buryakovsky/index.html",
-    "precache-manifest.287cff8d0ee9e8a27992bafb01e63080.js": "/vadim-buryakovsky/precache-manifest.287cff8d0ee9e8a27992bafb01e63080.js",
+    "precache-manifest.d500715c133d3fe5be926ac55f4c350b.js": "/vadim-buryakovsky/precache-manifest.d500715c133d3fe5be926ac55f4c350b.js",
     "service-worker.js": "/vadim-buryakovsky/service-worker.js",
-    "static/css/main.2ef1b09c.chunk.css.map": "/vadim-buryakovsky/static/css/main.2ef1b09c.chunk.css.map",
+    "static/css/main.85c9ab26.chunk.css.map": "/vadim-buryakovsky/static/css/main.85c9ab26.chunk.css.map",
     "static/js/2.17b0f78e.chunk.js.LICENSE.txt": "/vadim-buryakovsky/static/js/2.17b0f78e.chunk.js.LICENSE.txt",
     "static/media/MyResume.pdf": "/vadim-buryakovsky/static/media/MyResume.27fa656d.pdf",
     "static/media/Vadim.jpg": "/vadim-buryakovsky/static/media/Vadim.6ac7860e.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.e68391b3.js",
     "static/js/2.17b0f78e.chunk.js",
-    "static/css/main.2ef1b09c.chunk.css",
-    "static/js/main.b90dc39b.chunk.js"
+    "static/css/main.85c9ab26.chunk.css",
+    "static/js/main.000015ce.chunk.js"
   ]
 }
