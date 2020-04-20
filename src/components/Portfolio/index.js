@@ -6,6 +6,7 @@ import sharkfinImg from "./img/sharkFin2.jpg";
 import covid19Img from "./img/covid19_screenshot2.jpg";
 import dayPlannerImg from "./img/dayplanner.jpg";
 import weatherImg from "./img/weather2.jpg";
+import singularity from "./img/singularity.png"
  
 function Portfolio() {
 
@@ -78,22 +79,22 @@ function Portfolio() {
                                     </a>
                                   </div>
                               </div>
-                             {/*} <div className="col-12 col-md-6 col-xl-4 ">
+                              <div className="col-12 col-md-6 col-xl-4 ">
                                 <div className="card mb-4"> 
-                                  <a href="https://vadimsusername.github.io/dayscheduler/" target="_blank">                                  
-                                    <img className="card-img" src={dayPlannerImg} alt="Card image cap"> /</img>
+                                  <a href="https://singularitytcg.herokuapp.com/" target="_blank">                                  
+                                    <img className="card-img" src={singularity} alt="Card image cap" /> 
                                     <div className="card-img-overlay image-overlay">
                                         <h4 className="card-text text-center ">
-                                            Day Scheduler
+                                            Singularity
                                         </h4>
                                         <h5 className="card-text text-center">
-                                            <a href="https://github.com/vadimsusername/dayscheduler" target="_blank">Github</a>
+                                            <a href="https://github.com/vadimsusername/Singularity" target="_blank">Github</a>
                                         </h5>
                                         
                                     </div>
                                   </a>
                                 </div>
-                              </div>        */}                    
+                              </div>                        
                           </div>
                      
                       </div>
